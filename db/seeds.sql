@@ -5,7 +5,7 @@ VALUES ("Engineering"),
        ("Customer Service"),
        ("Product Managemant");
 
-INSERT INTO role (title, salary, department_id, salary)
+INSERT INTO role (title, department_id, salary)
 VALUES ("Software Engineer I", 1, 75000),
        ("Software Engineer II", 1, 125000),
        ("IT Manager", 1, 100000),

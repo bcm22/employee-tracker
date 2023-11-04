@@ -1,5 +1,5 @@
 const inquirer = require("inquirer");
-const connection = require("./config/connection");
+const connection = require("./config/connection.js");
 
 const getAllDept = () => {
     const sql = "SELECT id, department_name FROM department";
@@ -158,6 +158,9 @@ const prompts = () =>
                     break;
                 case "view all roles":
                     getAllRoles();
+                    break;
+                case "view all employees":
+                    getAllEmployees();
                     break;
                 case "add a department":
                     addDepartment();

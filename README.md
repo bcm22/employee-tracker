@@ -6,7 +6,7 @@
   
   ## Description
   
-  My motivation for this project was to demonstrate my knowledge using mysql..
+  My motivation for this project was to demonstrate my knowledge using mysql.
   
   I built this project to showcase how you can build databases using mysql.
 

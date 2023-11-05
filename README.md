@@ -27,7 +27,11 @@
   To use the project, open an intergrated terminal through server.js. Type npm start and you will be prompted with several questions. Select your 
   desired prompt and follow the questions to achieve your desired outcome.
 
-  https://drive.google.com/file/d/1gEnUTXwwJHZXIIwOAYUYU_JmNbSH5glu/view
+  
+
+https://github.com/bcm22/employee-tracker/assets/135455152/1e6d9c9c-4c25-462b-957a-c42dc2c2c18a
+
+
 
   ## Contributing
 

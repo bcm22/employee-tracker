@@ -27,6 +27,8 @@
   To use the project, open an intergrated terminal through server.js. Type npm start and you will be prompted with several questions. Select your 
   desired prompt and follow the questions to achieve your desired outcome.
 
+  file:///Users/brianmonda/Downloads/Employee%20Tracker.mp4
+
   ## Contributing
 
   Open to collaboration.

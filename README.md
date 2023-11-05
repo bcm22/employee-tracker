@@ -10,7 +10,7 @@
   
   I built this project to showcase how you can build databases using mysql.
 
-  From this project I was able to understand how to utilize mysql and how to successfully build and maintain databases..
+  From this project I was able to understand how to utilize mysql and how to successfully build and maintain databases.
 
   ## Table of Contents
   * [License](*license)
